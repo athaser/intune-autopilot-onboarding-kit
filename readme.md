@@ -1,7 +1,5 @@
 # Intune Autopilot Onboarding Kit
 
-# Intune Autopilot Onboarding Kit
-
 ![PowerShell](https://img.shields.io/badge/PowerShell-7+-blue?logo=powershell)
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-lightgrey?logo=windows)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
@@ -9,8 +7,6 @@
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 
 ## About
-This repository provides a set of PowerShell scripts and an optional graphical launcher...
-
 
 This repository provides a set of PowerShell scripts and an optional graphical launcher to streamline the process of onboarding Windows devices into Intune via Windows Autopilot.
 
