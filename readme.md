@@ -133,3 +133,12 @@ Feel free to fork and submit improvements:
 ## 🛡️ Disclaimer
 
 Use these scripts only in authorized environments. Make sure you have the necessary permissions to register devices and assign them to groups in Azure.
+
+---
+
+## 📚 References
+
+- [Add Devices to Windows Autopilot – Microsoft Learn](https://learn.microsoft.com/en-us/autopilot/add-devices)
+- [Windows Autopilot Documentation – Microsoft Learn](https://learn.microsoft.com/en-us/mem/autopilot/)
+- [Windows Enrollment Methods – Microsoft Intune Docs](https://learn.microsoft.com/en-us/mem/intune/enrollment/windows-enrollment-methods)
+
